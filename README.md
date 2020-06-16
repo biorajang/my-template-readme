@@ -1,6 +1,4 @@
-
-<!-- PROJECT SHIELDS -->
-[![codebeat badge](https://codebeat.co/badges/6fa52642-7e3a-4135-b2f2-35a3d0c53b4b)](https://codebeat.co/projects/github-com-biorajang-pythonpasswordvault-master) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "click to check the license!")
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "click to check the license!") [![codebeat badge](https://codebeat.co/badges/6fa52642-7e3a-4135-b2f2-35a3d0c53b4b)](https://codebeat.co/projects/github-com-biorajang-pythonpasswordvault-master) 
 
 ## Project Title
 
@@ -9,18 +7,26 @@
 #### Demo (Screenshot/GIF)
 
 #### Live Link
+
 #### Prerequisite
+
 ### Project setup instructions and installation
+1. Head to your terminal and clone it `git clone https://github.com/biorajang/project-name.git`
+2. Navigate to the project `cd project-name`
+3. Open it in your text editor (VS Code/Atom) `code .` or `atom .`
+
 ### BDD
+
 ### Built With
-* Technology 1
-* Technology 2
-* Technology 3
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+* [Angular CLI](https://cli.angular.io/)
+* [Flask](https://flask.palletsprojects.com/)
+* [Django](https://www.djangoproject.com/)
 
 <!-- You can also include the links(optional) like below
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com) -->
-
 ### Support & Contribution
-
+Any suggestions or issues found? Contact me: biorduot4@gmail.com
