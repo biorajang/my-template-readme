@@ -24,9 +24,5 @@
 * [Flask](https://flask.palletsprojects.com/)
 * [Django](https://www.djangoproject.com/)
 
-<!-- You can also include the links(optional) like below
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com) -->
 ### Support & Contribution
 Any suggestions or issues found? Contact me: biorduot4@gmail.com
